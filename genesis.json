@@ -1,0 +1,17 @@
+{
+  "config": {
+    "chainId": 1984,
+    "clique": {
+      "period": 5,
+      "epoch": 30000
+    }
+  },
+  "difficulty": "1",
+  "gasLimit": "8000000",
+  "extradata": "0x880eb400780f774b29bA59116eA39f09193b62be",
+  "alloc": {
+    "0x880eb400780f774b29bA59116eA39f09193b62be": {
+      "balance": "1000000000000000000000000"
+    }
+  }
+}
